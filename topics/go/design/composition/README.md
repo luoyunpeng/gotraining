@@ -32,7 +32,7 @@ _"Duplication is far cheaper than the wrong abstraction. - Sandi Metz_
 [Embedding](https://golang.org/doc/effective_go.html#embedding)   
 [Methods, Interfaces and Embedding](https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html)  ~ [中文翻译](https://studygolang.com/articles/2935) - William Kennedy  
 [Composition In Go](https://www.ardanlabs.com/blog/2015/09/composition-with-go.html) ~ [中文翻译](https://studygolang.com/articles/19336)  - William Kennedy  
-[Reducing Type Hierarchies](https://www.ardanlabs.com/blog/2016/10/reducing-type-hierarchies.html) - William Kennedy  
+[Reducing Type Hierarchies](https://www.ardanlabs.com/blog/2016/10/reducing-type-hierarchies.html)  ~ [中文翻译](https://studygolang.com/articles/17362) - William Kennedy  
 [Avoid Interface Pollution](https://www.ardanlabs.com/blog/2016/10/avoid-interface-pollution.html) - William Kennedy 
 
 ## Code Review
