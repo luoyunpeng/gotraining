@@ -16,8 +16,8 @@ _Systems cannot be developed assuming that human beings will be able to write mi
 ## Links
 
 [Error handling and Go](https://blog.golang.org/error-handling-and-go)    
-[Error Handling In Go, Part I](https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html) - William Kennedy    
-[Error Handling In Go, Part II](https://www.ardanlabs.com/blog/2014/11/error-handling-in-go-part-ii.html) - William Kennedy    
+[Error Handling In Go, Part I](https://www.ardanlabs.com/blog/2014/10/error-handling-in-go-part-i.html) ~ [中文翻译](https://studygolang.com/articles/17169?fr=sidebar) - William Kennedy    
+[Error Handling In Go, Part II](https://www.ardanlabs.com/blog/2014/11/error-handling-in-go-part-ii.html)  ~ [中文翻译](https://studygolang.com/articles/17170) - William Kennedy    
 [Design Philosophy On Logging](https://www.ardanlabs.com/blog/2017/05/design-philosophy-on-logging.html) - William Kennedy    
 [Bugs are a failure of prediction](https://clipperhouse.com/bugs-are-a-failure-of-prediction/) - Matt Sherman    
 [Inspecting errors](https://dave.cheney.net/2014/12/24/inspecting-errors) - Dave Cheney    
