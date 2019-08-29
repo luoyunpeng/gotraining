@@ -23,7 +23,7 @@ _"Design is the art of arranging code to work today, and be changeable forever."
 ## Links
 
 [Interfaces](https://golang.org/doc/effective_go.html#interfaces)    
-[The Laws of Reflection](https://blog.golang.org/laws-of-reflection) - Rob Pike    
+[The Laws of Reflection](https://blog.golang.org/laws-of-reflection) ~ ~ [中文翻译](https://studygolang.com/articles/15160) - Rob Pike    
 [Methods, Interfaces and Embedded Types in Go](https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html) - William Kennedy    
 [Interface Pollution](https://medium.com/@rakyll/interface-pollution-in-go-7d58bccec275) - JBD    
 [Abstraction Considered Harmful](https://bravenewgeek.com/abstraction-considered-harmful/) - Tyler Treat    
