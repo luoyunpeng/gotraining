@@ -26,7 +26,7 @@ _"Parallelism is TRYING to do two things at the same time. Concurrency is arrang
 
 [Scheduling In Go - Part I](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html) ~ [中文翻译](https://studygolang.com/articles/14264) - William Kennedy    
 [Scheduling In Go - Part II](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html) ~ [中文翻译](https://studygolang.com/articles/15316) - William Kennedy    
-[Advanced Go Concurrency Patterns](https://blog.golang.org/advanced-go-concurrency-patterns) - Sameer Ajmani    
+[Advanced Go Concurrency Patterns](https://blog.golang.org/advanced-go-concurrency-patterns) ~ [中文翻译-可能是一部分](https://studygolang.com/articles/19394) - Sameer Ajmani    
 [Go Concurrency Patterns: Context](https://blog.golang.org/context) - Sameer Ajmani    
 [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism) - Rob Pike    
 [Go, for Distributed Systems](https://talks.golang.org/2013/distsys.slide) - Russ Cox    
